@@ -86,7 +86,8 @@ Both had the same accuracy on validation (0.9306), but the error pattern shifted
 Click the badge to open the notebook, then go to **Runtime → Run all**.
 
 ## Slides
-- [Final Project Slides (PDF)](3 Final project Slides  copy.pdf)
+- [Final Project Slides (PDF)](https://github.com/JHastings46/Fake-Job-Description-Detector/blob/17c1c38da63e60f174ec0d54ca3e0104b840a53e/3%20Final%20project%20Slides%20%20copy.pdf)
+
 
 
 
