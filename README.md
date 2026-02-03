@@ -85,6 +85,8 @@ Both had the same accuracy on validation (0.9306), but the error pattern shifted
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UJIPU6JUJSE23gJumsFS1GDak7uNeguC?usp=sharing)
 Click the badge to open the notebook, then go to **Runtime → Run all**.
 
+## Slides
+- [Final Project Slides (PDF)](final-project-slides.pdf)
 
 
 
